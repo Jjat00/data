@@ -1,98 +1,238 @@
-Nombre: Jaime Aza
-Edad: 28 años
-Años de experiencia: 4 años
-Información: ingeniero desarrollador de software full stack con experiencia en React, Node y Python. 
-LinkedIn: https://www.linkedin.com/in/jaimeaza/
-GitHub: https://github.com/Jjat00
-Sobre mí: Desarrollador de software con 3 años de experiencia en React.js y Node.js. Poseo una sólida comprensión de los conceptos
-de desarrollo web y de cómo integrar los diferentes componentes de una aplicación. He demostrado habilidades en el
-desarrollo de aplicaciones tanto en el lado del servidor como en el cliente, enfocándome en proporcionar soluciones
-eficientes y escalables. Estoy comprometido a brindar soluciones innovadoras y a mantenerme actualizado con las últimas
-tendencias en desarrollo web. Me gusta trabajar en equipo y colaborar con otros desarrolladores para asegurar la entrega
-de soluciones de alta calidad y eficientes. Me gustaría continuar mi carrera en una empresa innovadora y en constante
-crecimiento donde pueda seguir creciendo profesionalmente y contribuir al éxito de la empresa.
-EXPERIENCIA: 
-higher bit solutions
-Full Stack Developer Engineer - marzo 2025 - presente
-Decimetrix
-Full Stack Developer Engineer — enero de 2022 - hasta febrero de 2025
-● Diseñé la arquitectura de datos de un digital twin y el esquema de migraciones de base de datos del producto
-haciendo uso de Sequelize y PostreSQL, esto facilitó la escalabilidad del producto.
-● Realicé la refactorización del código hecho en react para que sea más legible y escalable, alcanzando la optimización
-del mismo en un 50%.
-● Desarrollé nuevos módulos para la gestión de usuarios y visualización de objetos en mapas usando react, mapbox
-y node. Esto permitió optimizar la recolección de datos en campo en un 40%.
-Stack tecnológico: React.js · Node.js · Mapbox · Python · Liderazgo · PostgreSQL · MongoDB · Sequelize.js · Docker.
-Software Development Engineer — 05, 2021 - 12, 2021
-● Empecé la creación de la aplicación Green Dragon, escogiendo las tecnologías y realizando el modelo de la base de
-datos, esto dió punto de partida a la implementación del producto.
-● Desarrollé el MVP de la aplicación web Green Dragon, un digital twin que ayuda a la gestión de la huella de carbono.
-Con esto se optimizó las actividades diarias realizadas en instancias petroleras
-Stack tecnológico: React.js · Node.js · Mapbox · PostgreSQL · Docker · AWS · EC2 · S3 · Lambda.
-Intecol — 01, 2021 - 04, 2021
-● Logré manipular una cámara térmica FLIR con el lenguaje Python, esto permitió realizar pruebas en laboratorio con
-librerías open source como OpenCV reduciendo costos asociados a las librerías de pago.
-● Realicé una aplicación de escritorio usando Python y PyQt para facilitar la adquisición y procesamiento de imágenes de cámaras de visión artificial industriales de Cognex y FLIR agilizando el tiempo de la adquisición en un 30%. Stack tecnológico: Python · OpenCV · PyQt · Visión por computador · NumPy
-EDUCACIÓN
-Universidad del Valle – Cali, Colombia. Ingeniería electrónica, facultad de ingeniería, 2015 - 2020.
-Universidad del Valle – Cali, Colombia. Ingeniería de sistemas y computación, facultad de ingeniería, 2019 - 2021.
-Proyectos:
+![Jaime Aza](https://i.ibb.co/RpfGvpsw/jjat.png)
 
-[
-  {
-    "img": "https://i.ibb.co/DY6ppRq/camera-positions.jpg",
-    "title": "Optimización de ubicación de cámaras de seguridad",
-    "description": "Determina estratégicamente las ubicaciones de cámaras de seguridad para cubrir todos los puntos de interés en un área geográfica específica.",
-    "technologies": "React.js, Mapbox.js, CSS, Python, Flask, Sklearn.",
-    "code": "/",
-    "website": "https://camera-location-optimization.pages.dev/"
-  },
-  {
-    "img": "https://i.ibb.co/WnB6ZVw/greendragon.jpg",
-    "title": "Green dragon",
-    "description": "Lideré el equipo para el desarrollo de la aplicación Green Dragon de la empresa Decimetrix, que recolecta información de inventario e inspecciones de campo, detecta y cuantifica emisiones de gas, y establece líneas base para la evaluación de la prevención y control de fugas.",
-    "technologies": "React, Node, Python, Flask, Express, S3, EC2, PostgreSQL, MongoDB, Flask, Redux, SWR, Docker, Mapbox.js.",
-    "code": "/",
-    "website": "/"
-  },
-  {
-    "img": "https://i.ibb.co/Y7F31kS/lofi-landing.jpg",
-    "title": "Lofi code",
-    "description": "Un sitio web sencillo, sin usar librerías. Por medio del API de youtube se muestra un listado de recomendaciones de Lofi Code.",
-    "technologies": "HTML5, Javascript, CSS, Youtube API.",
-    "code": "https://github.com/Jjat00/lofi-code-landing",
-    "website": "https://jjat00.github.io/lofi-code-landing"
-  },
-  {
-    "img": "https://i.ibb.co/3vMrLsj/batatabit.jpg",
-    "title": "Batatabit",
-    "description": "Web page realizada usando mobile first, se hizo la maquetación de la página a partir del diseño en figma. Para el estilo se usó la metodología de nomenclatura BEM.",
-    "technologies": "HTML5, CSS.",
-    "code": "https://github.com/Jjat00/batatabit",
-    "website": "https://jjat00.github.io/batatabit/"
-  },
-  {
-    "img": "https://i.ibb.co/9wyYdYg/captura-deptherm.png",
-    "title": "Deptherm inspection",
-    "description": "Permite hacer inspección termográfica en 3D. También permite hacer calibración de cámaras, fusión de imágenes RGB-térmica, RGB-profundidad, térmica-profundidad, RGB-térmica-profundidad.",
-    "technologies": "Python, Vedo, Numpy, OpenCV, Kinect camera, PyQT, PostresSQL, Qt Designer.",
-    "code": "https://github.com/Jjat00/Deptherm-Inspection",
-    "website": "https://github.com/Jjat00/Deptherm-Inspection"
-  },
-  {
-    "img": "https://i.ibb.co/W5Q38Qb/nural-network-05.jpg",
-    "title": "Clasificador usando redes convolucionales",
-    "description": "CNN que clasifica 5 tipos de sanitarios (A, B, C, D y E) para facilitar el etiquetado durante la producción de los sanitarios.",
-    "technologies": "Python, Numpy, OpenCV, Keras, Tensorflow, Sklearn.",
-    "code": "https://github.com/Jjat00/Clasificador-Sanitarios-CNN-Keras",
-    "website": "https://github.com/Jjat00/Clasificador-Sanitarios-CNN-Keras/blob/master/SanitaryClassification.ipynb"
-  },
-  {
-    "img": "https://i.ibb.co/X7gw0rD/pcrf.png",
-    "title": "Reconstrucción 3D con perfilación láser",
-    "description": "La perfilación láser es una técnica de visión artificial para hacer reconstrucción 3D. Este proyecto muestra cómo generar una nube de puntos 3D a partir de un conjunto de imágenes de perfilación laser.",
-    "technologies": "Python, Vedo, Numpy, OpenCV.",
-    "code": "https://github.com/Jjat00/Nube-puntos-desde-imagenes-perfilacion-laser",
-    "website": "https://github.com/Jjat00/Nube-puntos-desde-imagenes-perfilacion-laser"
-  }
-]
+# Jaime Aza
+
+Ingeniero de software fullstack con enfoque en el desarrollo de productos impulsados por inteligencia artificial. Tengo experiencia trabajando con modelos de lenguaje (LLMs), sistemas RAG (Retrieval-Augmented Generation), embeddings y bases de datos vectoriales como Pinecone y Supabase para recuperación semántica y generación contextual. He construido agentes inteligentes usando herramientas como LangChain, LangGraph y MCPS, integrando flujos conversacionales complejos, lógica de negocio y memoria contextual. Utilizo herramientas de IA como Cursor, Lovable, v0 y ElevenLabs para acelerar el desarrollo y crear experiencias más ricas.
+
+### Desarrollo Frontend
+
+React, Tailwind, TypeScript, Next.js
+
+### Desarrollo Backend
+
+Node.js, Python, FastAPI, Django, PostgreSQL, Pinecone, Supabase, Django Rest Framework
+
+### Automatización & Cloud
+
+n8n, WhatsApp API, Telegram, AWS, Docker
+
+### Inteligencia Artificial
+
+LLMs, RAG, LangGraph, LangChain, Embeddings, MCPS, Cursor, Lovable, v0, ElevenLabs
+
+## Sobre mí
+
+Mi enfoque IA-first combina desarrollo backend con frontend, automatización y diseño de productos reales. Trabajo con tecnologías como React, Node.js, TypeScript, Python, FastAPI, Django REST Framework y n8n, creando arquitecturas robustas, APIs RESTful, sistemas multi-tenant y flujos automatizados conectados a plataformas como WhatsApp o Telegram. Utilizo herramientas de IA generativa como Cursor para desarrollo asistido por IA, Lovable y v0 para prototipado rápido de interfaces, y ElevenLabs para síntesis de voz en aplicaciones conversacionales. Soy autodidacta, curioso y orientado al producto. Me apasiona aprender, experimentar con nuevas tecnologías y construir soluciones funcionales que resuelvan problemas reales con impacto. Disfruto liderar proyectos desde la idea hasta el despliegue, uniendo visión técnica y estratégica.
+
+### Innovación
+
+Busco constantemente nuevas formas de resolver problemas y mejorar procesos existentes.
+
+### Calidad
+
+Me comprometo con la excelencia técnica y las mejores prácticas en cada línea de código.
+
+### Resultados
+
+Enfocado en entregar soluciones que generen valor real y medible para los usuarios y el negocio.
+
+## Logros y Reconocimientos
+
+### 🏆 Ganador - Colombia Tech Week AI Hackathon 2025
+
+Track: Best Agentic App in WhatsApp
+
+1er Lugar
+
+Agosto 2025
+
+Fui reconocido como ganador de la hackathon más grande de Colombia, organizada por Colombia Tech Week en Bogotá. Mi proyecto destacó por su innovación en el desarrollo de aplicaciones agentivas para WhatsApp, demostrando excelencia técnica y capacidad para resolver problemas reales con tecnologías de inteligencia artificial.
+
+#### Evento Destacado
+
+Colombia Tech Fest - La hackathon más grande de Colombia con 150+ participantes
+
+#### Especialización IA
+
+Track enfocado en aplicaciones agentivas para WhatsApp con tecnologías de IA
+
+WhatsApp APIAI AgentsLangChainLangGraphRAG SystemsVector DatabasesPythonTypeScriptInnovaciónPrototipado Rápido
+
+Bogotá, Colombia•23-24 Agosto 2025
+
+[Ver Evento](https://www.colombiatechfest.ai-hackathon.co/)
+
+## Experiencia Profesional
+
+### AI Developer Engineer
+
+Ungga
+
+Junio 2025 - Actualidad
+
+En remoto • Startup Proptech Mexicana
+
+- •Construcción de agentes de inteligencia artificial especializados para el sector inmobiliario utilizando LangGraph y LangChain para automatizar procesos complejos.
+- •Desarrollo de sistemas de chatbots inteligentes integrados con la API de WhatsApp para mejorar la comunicación con clientes y automatizar consultas inmobiliarias.
+- •Implementación de soluciones backend robustas usando Python y TypeScript para soportar la infraestructura de IA y garantizar escalabilidad en el ecosistema proptech.
+
+PythonTypeScriptLangGraphLangChainWhatsApp APIAI AgentsCursorElevenLabsProptech
+
+### Full-stack Developer
+
+Higher Bit Solutions
+
+Marzo 2025 - Junio 2025
+
+En remoto • Startup Chilena
+
+- •Desarrollo de aplicaciones web utilizando React y TypeScript con un enfoque en la creación de interfaces de usuario modernas y responsivas. Uso herramientas como v0 y Lovable para prototipado rápido y desarrollo asistido por IA.
+- •Implementación de APIs RESTful con Django REST framework y Python para el backend de las aplicaciones.
+- •Diseño y desarrollo de interfaces de usuario con Tailwind CSS, mejorando la experiencia del usuario y la accesibilidad.
+
+React.jsPythonDjango REST frameworkTypeScriptTailwind CSSv0Lovable
+
+### Full Stack Developer Engineer
+
+Decimetrix
+
+Enero 2022 - Febrero 2025
+
+- •Diseñé la arquitectura de datos de la aplicación Green Dragon y el esquema inicial de base de datos del producto haciendo uso de Sequelize y PostreSQL, esto facilitó la escalabilidad del producto.
+- •Realicé la refactorización del código hecho en React para que sea más legible y escalable, alcanzando la optimización del mismo en un 50%.
+- •Desarrollé nuevos módulos para la gestión de usuarios y visualización de objetos en mapas usando React, Mapbox y Node. Esto permitió optimizar la recolección de datos en campo en un 40%.
+- •Dirigí al equipo de desarrollo web, realizando planeación de actividades, seguimiento de tareas, revisión de Pull Requests y coordinando el despliegue de la aplicación a producción, lo que mejoró la eficiencia del equipo en un 35%.
+
+React.jsNode.jsMapboxPythonPostgreSQLMongoDBSequelize.jsDockerLiderazgoFastAPIAWSS3
+
+### Software Development Engineer
+
+Decimetrix
+
+Mayo 2021 - Diciembre 2021
+
+- •Empecé la creación de la aplicación Green Dragon, escogiendo las tecnologías y realizando el modelo de la base de datos, esto dió punto de partida a la implementación del producto.
+- •Desarrollé el MVP de la aplicación web Green Dragon, un digital twin que ayuda a la gestión de la huella de carbono. Con esto se optimizó las actividades diarias realizadas en instancias petroleras.
+
+React.jsNode.jsMapboxPostgreSQLDockerAWSEC2S3Lambda
+
+### Computer Vision Engineer
+
+Intecol SAS
+
+Enero 2021 - Abril 2021
+
+- •Logré manipular una cámara térmica FLIR con el lenguaje Python, esto permitió realizar pruebas en laboratorio con librerías open source como OpenCV reduciendo costos asociados a las librerías de pago.
+- •Realicé una aplicación de escritorio usando Python y PyQt para facilitar la adquisición y procesamiento de imágenes de cámaras de visión artificial industriales de Cognex y FLIR agilizando el tiempo de la adquisición en un 30%.
+
+PythonOpenCVPyQtVisión por computadorNumPy
+
+## Educación
+
+2015 - 2020
+
+### Ingeniería Electrónica
+
+Universidad del Valle – Cali, Colombia
+
+Facultad de Ingeniería
+
+2019 - 2021
+
+### Ingeniería de Sistemas y Computación
+
+Universidad del Valle – Cali, Colombia
+
+Facultad de Ingeniería
+
+Formación Continua
+
+### Aprendizaje Permanente
+
+He completado más de 60 cursos en la plataforma educativa Platzi, abarcando diversas áreas como:
+
+Habilidades Técnicas
+
+Inglés
+
+Habilidades Blandas
+
+Liderazgo
+
+Mi compromiso con el aprendizaje continuo me permite mantenerme a la vanguardia de las nuevas tecnologías y metodologías, aplicando constantemente nuevos conocimientos en mis proyectos profesionales.
+
+## Proyectos
+
+Una selección de proyectos que demuestran mi experiencia y habilidades técnicas
+
+![Automatizaciones Avanzadas con n8n](https://i.ibb.co/twsChVp7/n8n-proyects.png)
+
+[Código](https://jaimeaza.tech/) [Demo](https://jaimeaza.tech/)
+
+### Automatizaciones Avanzadas con n8n
+
+Colección de proyectos de automatización desarrollados con n8n, incluyendo servidores MCP (Model Context Protocol), agentes de análisis de imágenes con IA, scrapers web inteligentes, bots de Telegram conversacionales, sistemas RAG (Retrieval-Augmented Generation), vectorización de bases de datos, agentes de voz con síntesis natural y múltiples workflows de automatización empresarial.
+
+#### Tecnologías utilizadas
+
+n8nPythonOpenAILangChainVector DatabasesTelegram Bot APIElevenLabsWeb ScrapingMCPRAG Systems
+
+[Ver Código](https://jaimeaza.tech/) [Visitar Sitio](https://jaimeaza.tech/)
+
+Proyecto anterior
+
+1 / 11
+
+Proyecto siguiente
+
+![Automatizaciones Avanzadas con n8n](https://i.ibb.co/twsChVp7/n8n-proyects.png)
+
+#### Automatizaciones Avanzadas con n8n
+
+![Tresqu - asistente financiero inteligente](https://i.ibb.co/6JNddQ1z/hero-tresqu.png)
+
+#### Tresqu - asistente financiero inteligente
+
+![RAG Workflow con n8n y LangChain](https://raw.githubusercontent.com/Jjat00/clase-n8n-rag-langchain/main/images/qa-workflow.png)
+
+#### RAG Workflow con n8n y LangChain
+
+![Milena Iruá Fotografía](https://i.ibb.co/6cskd4vv/web-page-milena-1.png)
+
+#### Milena Iruá Fotografía
+
+![Optimización de ubicación de cámaras de seguridad](https://i.ibb.co/DY6ppRq/camera-positions.jpg)
+
+#### Optimización de ubicación de cámaras de seguridad
+
+![Green dragon](https://i.ibb.co/WnB6ZVw/greendragon.jpg)
+
+#### Green dragon
+
+![Lofi code](https://i.ibb.co/Y7F31kS/lofi-landing.jpg)
+
+#### Lofi code
+
+![Batatabit](https://i.ibb.co/3vMrLsj/batatabit.jpg)
+
+#### Batatabit
+
+![Deptherm inspection](https://i.ibb.co/9wyYdYg/captura-deptherm.png)
+
+#### Deptherm inspection
+
+![Clasificador usando redes convolucionales](https://i.ibb.co/W5Q38Qb/nural-network-05.jpg)
+
+#### Clasificador usando redes convolucionales
+
+![Reconstrucción 3D con perfilación láser](https://i.ibb.co/X7gw0rD/pcrf.png)
+
+#### Reconstrucción 3D con perfilación láser
+
+Chat💬IA
+
+Voz🎤IA
+
+Chat de texto✖
+
+Enviar
